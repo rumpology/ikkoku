@@ -1,0 +1,3 @@
+/Users/rumpology/code/repo/cpp/ikkoku/CMakeFiles/main.dir
+/Users/rumpology/code/repo/cpp/ikkoku/CMakeFiles/edit_cache.dir
+/Users/rumpology/code/repo/cpp/ikkoku/CMakeFiles/rebuild_cache.dir
